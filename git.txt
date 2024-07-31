@@ -1,1 +1,1 @@
-checkout branch stash 12
+checkout branch
